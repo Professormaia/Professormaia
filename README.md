@@ -1,5 +1,5 @@
 - 👋 Olá! Sou Professor Adilson G. Maia
-- 👀 sou professor do Colégio Estadual do  Campo Natal Pontarolo
+- 👀 Sou professor do Colégio Estadual do  Campo Natal Pontarolo
 - 🌱 Professor da disciplina pensamento computacional
 
 
