@@ -5,7 +5,7 @@
     - 🌱 Professor da disciplina pensamento computacional</h1>
   </html>
 - <html>
-  <h2> Mais, perdido do que cego em tiroteio  </h2>
+  <h2> Tenho 50 anos, a 22 dedicado a educação, na área das ciências humanas, filosofia e sociologia. Com um novo deseafio pensameneto computacional.</h2>
 -  </html>
 
 
